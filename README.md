@@ -1,4 +1,4 @@
 # Programmering1_7.4.2
 Programmering 1, exercise 7.4.2
 
-Make a bank simulation where you can deposit and outtake money, check account balance and end the simulation.
+En banksimulator där det går att ta in och ut pengar samt att se hur mycket pengar man har.
